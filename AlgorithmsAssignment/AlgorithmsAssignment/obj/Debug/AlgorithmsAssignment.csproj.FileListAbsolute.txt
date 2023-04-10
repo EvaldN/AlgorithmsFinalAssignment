@@ -1,0 +1,13 @@
+C:\Users\voras\source\repos\AlgorithmsAssignment\AlgorithmsAssignment\obj\Debug\AlgorithmsAssignment.csproj.AssemblyReference.cache
+C:\Users\voras\source\repos\AlgorithmsAssignment\AlgorithmsAssignment\obj\Debug\AlgorithmsAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\voras\source\repos\AlgorithmsAssignment\AlgorithmsAssignment\obj\Debug\AlgorithmsAssignment.Properties.Resources.resources
+C:\Users\voras\source\repos\AlgorithmsAssignment\AlgorithmsAssignment\obj\Debug\AlgorithmsAssignment.csproj.GenerateResource.cache
+C:\Users\voras\source\repos\AlgorithmsAssignment\AlgorithmsAssignment\obj\Debug\AlgorithmsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\voras\source\repos\AlgorithmsAssignment\AlgorithmsAssignment\bin\Debug\AlgorithmsAssignment.exe.config
+C:\Users\voras\source\repos\AlgorithmsAssignment\AlgorithmsAssignment\bin\Debug\AlgorithmsAssignment.exe
+C:\Users\voras\source\repos\AlgorithmsAssignment\AlgorithmsAssignment\bin\Debug\AlgorithmsAssignment.pdb
+C:\Users\voras\source\repos\AlgorithmsAssignment\AlgorithmsAssignment\obj\Debug\AlgorithmsAssignment.exe
+C:\Users\voras\source\repos\AlgorithmsAssignment\AlgorithmsAssignment\obj\Debug\AlgorithmsAssignment.pdb
+C:\Users\voras\source\repos\AlgorithmsAssignment\AlgorithmsAssignment\bin\Debug\StarkbankEcdsa.dll
+C:\Users\voras\source\repos\AlgorithmsAssignment\AlgorithmsAssignment\obj\Debug\AlgorithmsAssignment.Form1.resources
+C:\Users\voras\source\repos\AlgorithmsAssignment\AlgorithmsAssignment\obj\Debug\AlgorithmsAssignment.csproj.CopyComplete
